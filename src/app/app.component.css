@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black;
+  border-radius: 20%;
+}
